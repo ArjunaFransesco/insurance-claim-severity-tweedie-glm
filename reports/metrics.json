@@ -1,0 +1,7 @@
+{
+  "model": "RandomForestRegressor (Ensemble 180 Trees)",
+  "R2_Score": 0.947,
+  "MAE": 5.7566,
+  "RMSE": 7.2873,
+  "CV_5Fold_Mean_R2": 0.9439
+}
